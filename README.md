@@ -8,6 +8,7 @@ Vote Tracking: Track and display vote counts for candidates.
 Technologies:
 
 Backend: Node.js, Express.js
+
 Database: MongoDB with Mongoose
 Authentication: JSON Web Tokens (JWT)
 Password Management: Bcrypt for hashing passwords
